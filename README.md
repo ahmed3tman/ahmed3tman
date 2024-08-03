@@ -2,7 +2,9 @@
 
 I'm Ahmed Etman , a Flutter Developer with a continuous drive for learning and growth. Currently , I am actively seeking new opportunities and challenges to further expand my skills and contribute to innovative projects.
 
-
+## My Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed3tman&show_icons=true&bg_color=282828&title_color=ffffff&text_color=ffffff&icon_color=f37b19)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmed3tman&background=282828&ring=fabd2f&fire=f37b19&currStreakNum=f37b19&sideNums=ffffff&currStreakLabel=f37b19&sideLabels=ffffff&dates=ffffff)
 
 ### 🌟 Available for New Opportunities:
 - 🚀 I'm eager to join a dynamic team where I can utilize my expertise in Flutter development to create impactful mobile applications.
