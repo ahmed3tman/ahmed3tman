@@ -27,7 +27,7 @@ I'm Ahmed Etman , a Flutter Developer with a continuous drive for learning and g
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github" />
-    <img src="https://skillicons.dev/icons?i=Xcode,androidstudio,vscode,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=xcode,androidstudio,vscode,figma" /><br>
 </div> 
 
 ### 🌐 Connect with Me:
