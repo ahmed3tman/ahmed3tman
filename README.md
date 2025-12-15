@@ -48,9 +48,10 @@ I'm currently **open to new opportunities**, both freelance and full-time, where
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,cpp,postman,zapier" />
   <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma" />
 </p>
+
 
 ---
 
