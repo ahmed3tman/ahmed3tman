@@ -18,11 +18,14 @@
   <a href="mailto:ahmed3tman20@icloud.com" target="_blank">
     <img src="https://img.shields.io/badge/iCloud%20Mail-Contact%20Me-0071E3?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-etman-3786a3289" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed3tman/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ahmed3tman" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@i3tman" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -44,7 +47,7 @@ I'm **Ahmed Etman** — a **Biomedical Engineer** and **Flutter Developer** who 
 
 ## 🚀 Featured Projects
 
-### 🏥 [MediGuard AI](https://github.com/ahmed3tman) — Healthcare Mobile App
+### 🏥 [MediGuard AI](https://ahmed3tman.github.io/mediguardai_website/) — Healthcare Mobile App
 > Flutter · Firebase Realtime Database · IoT Integration
 
 Real-time medical monitoring app integrated with custom hardware for live health tracking and analytics.  
@@ -52,38 +55,39 @@ Real-time medical monitoring app integrated with custom hardware for live health
 
 ---
 
-### 🎨 NOUV — Premium Art Gallery & Community Platform
+### 🎨 [NOUV](https://nouvgallery.com/index.html) — Premium Art Gallery & Community Platform
 > Flutter · MVVM · Cubit · Supabase
 
-Connecting art enthusiasts with exclusive digital collections through interactive challenges, curated profiles, and an immersive **AR viewing experience**.  
-[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com)
-[![Google Play](https://img.shields.io/badge/Google%20Play-Download-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com)
+Connecting art enthusiasts with exclusive digital collections through immersive experience.  
+[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/eg/app/nouv-gallery-of-masterpieces/id6760584777)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Download-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.gallery.nouv)
 
 ---
 
 ### 🏙️ Itay Al-Baroud — City Services & Community App
 > Flutter · MVVM · Cubit · Supabase
 
-Connecting local residents with city services and real-time news through a scalable, high-performance mobile platform.  
-[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com)
-[![Google Play](https://img.shields.io/badge/Google%20Play-Download-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com)
+Connecting local residents with city services and real-time news through a high-performance mobile platform.  
+[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/eg/app/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%8A%D8%AA%D8%A7%D9%8A-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D9%88%D8%AF/id6760946168)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Download-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.etay.userapp)
 
 ---
 
 ### 🕌 N3m Al-3bd — Islamic Habit Tracker
 > Flutter · Offline-First · Clean UI
 
-Prayer consistency tracker with behavioral tracking, full Qur'an & Adhkar access, and a focused, distraction-free design.  
-[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com)
-[![Google Play](https://img.shields.io/badge/Google%20Play-Download-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com)
+Prayer consistency tracker with behavioral tracking, full Qur'an & Adhkar access.  
+[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/eg/app/%D9%86%D8%B9%D9%85-%D8%A7%D9%84%D8%B9%D8%A8%D8%AF/id6760565414)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Download-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ahmed3tman.n3m_al3bd)
 
 ---
 
-### 🩺 Mobader — Saudi Healthcare Ecosystem
+### 🩺 [Mobader](https://mobader.sa/) — Saudi Healthcare Ecosystem
 > Flutter · REST API · Google Maps · Cubit · MVVM
 
-Lead Mobile Developer for a dual-app healthcare platform (Patient & Staff) bridging patients, medical professionals, and logistics.  
-[![Google Play](https://img.shields.io/badge/Google%20Play-Download-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com)
+Lead Mobile Developer for a dual-app healthcare platform (Patient & Staff) bridging patients and medical professionals.  
+**Patient App:** [![Google Play](https://img.shields.io/badge/Google%20Play-Download-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mobader.app)  
+**Staff App:** [![Google Play](https://img.shields.io/badge/Google%20Play-Staff%20App-0071E3?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mobader.staffapp)
 
 ---
 
@@ -109,22 +113,14 @@ Lead Mobile Developer for a dual-app healthcare platform (Patient & Staff) bridg
 
 ---
 
-## 🌟 What I'm Looking For
-
-- 🏢 A forward-thinking team building meaningful, impactful products
-- 📱 Freelance projects in **mobile healthcare**, **IoT**, or **innovative apps**
-- 🤝 Collaborations that push the limits of technology and creativity
-- 🌍 Continuous growth in Flutter, architecture design, and product thinking
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to discussing tech, collaborations, freelance work, or just a good conversation about innovation.
 
 📧 [ahmed3tman20@icloud.com](mailto:ahmed3tman20@icloud.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/ahmed-etman-3786a3289)  
-🌐 [Portfolio](https://ahmed3tman.github.io)
+💼 [LinkedIn](https://www.linkedin.com/in/ahmed3tman/)  
+🌐 [Portfolio](https://ahmed3tman.github.io)  
+🎥 [YouTube](https://www.youtube.com/@i3tman)
 
 ---
 
